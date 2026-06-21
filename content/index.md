@@ -8,4 +8,4 @@ title: "Futura Academic Blog"
 
 ## 最新文章
 
-- [[posts/WAM_Academic_Blog_Survey_Obsidian|World Action Models：从世界模型到具身智能基础模型的演进]]
+- [[WAM_Survey|World Action Models：从世界模型到具身智能基础模型的演进]]
